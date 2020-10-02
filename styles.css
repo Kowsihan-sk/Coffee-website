@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
+p {
+  /* text-align: center; */
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: royalblue;
+  /* text-transform: capitalize; */
+  /* background: rgb(89, 100, 89); */
+}
+h1{
+    font-family: cursive;
+}
